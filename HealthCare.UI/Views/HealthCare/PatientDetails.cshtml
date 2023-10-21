@@ -1,0 +1,41 @@
+﻿@model List<HealthCare.DAL.Models.PatientPrescription>
+
+    <h1>Patients - Prescription</h1>
+
+@*<a class="nav-link text-dark" asp-area="" asp-controller="HealthCareUI" asp-action="AddPatient">Add Patient</a>
+<a class="nav-link text-dark" asp-area="" asp-controller="HealthCareUI" asp-action="AddPrescription">Add Prescription</a>*@
+<a class="nav-link text-dark" asp-area="" asp-controller="HealthCare" asp-action="AddPatient">Add Patient <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
+    <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+</svg></a>
+<a class="nav-link text-dark" asp-area="" asp-controller="HealthCare" asp-action="AddPrescription">Add Prescription <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus" viewBox="0 0 16 16">
+    <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z" />
+</svg></a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>PatientName</th>
+            <th>PatientAge</th>
+            <th>PatientGender</th>
+            <th>Address</th>
+            <th>DoctorName</th>
+            <th>Symptoms</th>
+            <th>Medicine</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient_detail in Model)
+        {
+            <tr>
+                <td>@patient_detail.PatientName</td>
+                <td>@patient_detail.PatientAge</td>
+                <td>@patient_detail.PatientGender</td>
+                <td>@patient_detail.Address</td>
+                <td>@patient_detail.DoctorName</td>
+                <td>@patient_detail.Symptoms</td>
+                <td>@patient_detail.Medicine</td>
+                <td><a href="EditPrescription/@patient_detail.PrescriptionId">Edit Prescription</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

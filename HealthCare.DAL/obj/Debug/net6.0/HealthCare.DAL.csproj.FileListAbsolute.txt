@@ -1,0 +1,14 @@
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\bin\Debug\net6.0\HealthCare.DAL.deps.json
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\bin\Debug\net6.0\HealthCare.DAL.runtimeconfig.json
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\bin\Debug\net6.0\HealthCare.DAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\bin\Debug\net6.0\HealthCare.DAL.pdb
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.csproj.AssemblyReference.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.AssemblyInfoInputs.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.AssemblyInfo.cs
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\refint\HealthCare.DAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.pdb
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\HealthCare.DAL.genruntimeconfig.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.DAL\obj\Debug\net6.0\ref\HealthCare.DAL.dll

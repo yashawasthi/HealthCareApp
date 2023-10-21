@@ -1,0 +1,15 @@
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\bin\Debug\net6.0\HealthCare.BAL.deps.json
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\bin\Debug\net6.0\HealthCare.BAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\bin\Debug\net6.0\HealthCare.BAL.pdb
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\bin\Debug\net6.0\HealthCare.DAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\bin\Debug\net6.0\HealthCare.DAL.pdb
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.csproj.AssemblyReference.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.AssemblyInfoInputs.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.AssemblyInfo.cs
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.csproj.CoreCompileInputs.cache
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.csproj.CopyComplete
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\refint\HealthCare.BAL.dll
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\HealthCare.BAL.pdb
+C:\Users\yashz\source\repos\HealthCareApp\HealthCare.BAL\obj\Debug\net6.0\ref\HealthCare.BAL.dll

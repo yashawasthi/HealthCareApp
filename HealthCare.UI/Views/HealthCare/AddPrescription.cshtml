@@ -1,0 +1,31 @@
+﻿@model HealthCare.DAL.Models.Prescription
+
+@{
+}
+
+
+<h1>Add Prescription</h1>
+
+<form method="post" action="AddPrescription" class="mt-5">
+    <div class="mb-3">
+        <label for="" class="form-label">Patient Id</label>
+        <input type="int" class="form-control" asp-for="PatientId">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Doctor Name</label>
+        <input type="text" class="form-control" asp-for="DoctorName">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Symptoms</label>
+        <input type="text" class="form-control" asp-for="Symptoms">
+    </div>
+    <div class="mb-3">
+        <label for="" class="form-label">Medicine</label>
+        <input type="text" class="form-control" asp-for="Medicine">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+
+</form>
